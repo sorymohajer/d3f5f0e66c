@@ -1,0 +1,24 @@
+{
+  "name": "EXE and APK",
+  "short_name": "EXE and APK",
+  "description": "تابع معنا أهم أخبار التقنية ومراجعات أهم الهواتف والحواسيب المتوفرة، وتعلم السيو مع موقع EXE and APK",
+  "start_url": "https://alsaker86.blogspot.com/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e53935",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/FzMmdSKf/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/FzMmdSKf/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
